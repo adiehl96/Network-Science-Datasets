@@ -9,4 +9,5 @@ The current version called [NIPS.csv](./NIPS.csv) has been found on the website 
 
 ## Appearance in Literature
 The dataset was mentioned in the following publications:
+* [Miller et al. (2008)](https://proceedings.neurips.cc/paper/2009/hash/437d7d1d97917cd627a34a6a0fb41136-Abstract.html)
 * [Lloyd et al. (2012)](https://proceedings.neurips.cc/paper/2012/hash/df6c9756b2334cc5008c115486124bfe-Abstract.html)
