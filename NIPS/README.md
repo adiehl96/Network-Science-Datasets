@@ -1,5 +1,5 @@
 # NIPS
-This dataset describes a coauthorship network that has been curated from data of NIPS conference authors. The name of the conference has since been changed to NeurIPS.
+This dataset describes a coauthorship network that has been curated from data of NIPS conference authors. The name of the conference has since been changed to NeurIPS. The coauthor relationship is encoded as a 1 while authors that did not author a paper together are encoded as a 0.
 
 ## Origin
 The dataset was described in a paper by [Miller et al. (2008)](https://proceedings.neurips.cc/paper/2009/hash/437d7d1d97917cd627a34a6a0fb41136-Abstract.html). 
