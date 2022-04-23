@@ -1,5 +1,5 @@
 # Protein
-
+This dataset describes interactions between 230 different proteins. The interaction is encoded as a 1 if two proteins do bind and as a 0 if they do not.
 
 ## Origin
 The data was first described in a paper by [Hoff (2007)](https://proceedings.neurips.cc/paper/2007/hash/766ebcd59621e305170616ba3d3dac32-Abstract.html). The authors sourced the data from a publication by [Butland et al.](https://doi.org/10.1038/nature03239) in which they showcased a method to detect interacting proteins. They published the interaction data as a pdf supplement, which likely was the basis for the network used by Hoff. Hoff selected the largest connected component of the graph, which includes 230 proteins.
