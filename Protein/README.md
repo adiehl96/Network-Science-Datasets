@@ -12,3 +12,6 @@ The dataset was mentioned in the following publications (non-exhaustive):
 |---|---|---|---|
 |Hoff|2007|Modeling homophily and stochastic equivalence in symmetric relational data|[link](https://proceedings.neurips.cc/paper/2007/hash/766ebcd59621e305170616ba3d3dac32-Abstract.html)|
 |Lloyd, Orbanz, Ghahramani & Roy|2012|Random function priors for exchangeable arrays with applications to graphs and relational data|[link](https://proceedings.neurips.cc/paper/2012/hash/df6c9756b2334cc5008c115486124bfe-Abstract.html)|
+|Bloem-Reddy, Orbanz|2018|Random-walk models of network formation and sequential Monte Carlo methods for graphs|[link](https://doi.org/10.1111/rssb.12289)|
+
+
