@@ -6,6 +6,8 @@ The data was first described in a paper by [Hoff (2007)](https://proceedings.neu
 
 The current version of the dataset called [HighSchool.csv](./HighSchool.csv) has been found on the website of James Robert Lloyd, embedded in the [source code](https://jamesrobertlloyd.com/assets/BasicRFM.tar.gz) for a publication by [Lloyd et al. (2012)](https://proceedings.neurips.cc/paper/2012/hash/df6c9756b2334cc5008c115486124bfe-Abstract.html)
 
+An older version of the same dataset has been found in the R package "eigenmodel" that Peter Hoff has kept up to date. The column and row names seem to indicate the indices of the subjects befor subsampling, but again no further information is given on how this process took place. The eigenmodel package can be found on [cran](https://cran.r-project.org/web/packages/eigenmodel/index.html) and a backup of one such version can be found on Peter Hoffs [github](https://github.com/pdhoff/eigenmodel/blob/master/data/YX_Friend.rda). 
+
 ## Note!
 The name used for this network has been changed from HighSchool to Friendship in at least one publication.
 ## Appearance in Literature
