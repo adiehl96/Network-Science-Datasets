@@ -15,6 +15,7 @@ The dataset was mentioned in the following publications (non-exhaustive):
 |Lloyd, Orbanz, Ghahramani & Roy|2012|Random function priors for exchangeable arrays with applications to graphs and relational data|[link](https://proceedings.neurips.cc/paper/2012/hash/df6c9756b2334cc5008c115486124bfe-Abstract.html)|
 |Zhu|2012|Max-margin nonparametric latent feature models for link prediction|[link](https://dl.acm.org/doi/10.5555/3042573.3042725)|
 |Palla, Knowles & Ghahramani|2014|Relational Learning and Network Modelling Using Infinite Latent Attribute Models|[link](https://doi.org/10.1109/TPAMI.2014.2324586)|
+|Cai, Ackerman, Freer|2014|An iterative step-function estimator for graphons|[link](https://doi.org/10.48550/arXiv.1412.2129)
 |Chen, Chen, Zhu, Song & Zhang|2016|Discriminative Nonparametric Latent Feature Relational Models with Data Augmentation|[link](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12136)|
 |Bloem-Reddy, Orbanz|2018|Random-walk models of network formation and sequential Monte Carlo methods for graphs|[link](https://doi.org/10.1111/rssb.12289)|
 |Xu, Liu, Zhe, Bai, Wang & Neville|2019|Variational Random Function Model for Network Modeling|[link](https://doi.org/10.1109/TNNLS.2018.2837667)|
